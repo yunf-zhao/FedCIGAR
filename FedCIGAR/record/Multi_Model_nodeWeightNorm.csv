@@ -1,0 +1,5 @@
+dataSet,auc,f1,alpha,beta,lr,hidden,enc_layer,dec_layer
+molecules,0,0,0,0,0,0,0,0
+biochem,0,0,0,0,0,0,0,0
+small,0,0,0,0,0,0,0,0
+mix,0,0,0,0,0,0,0,0

@@ -1,0 +1,54 @@
+{
+  "AIDS": {
+    "alpha": 0.1,
+    "beta": 8,
+    "lr": 0.001,
+    "hidden": 64,
+    "enc_layer": 10,
+    "dec_layer": 5,
+    "batch_size": 64,
+    "num_clients": 5,
+    "local_epoch": 1,
+    "cluster_num": 1,
+    "temperature": 100000.0
+  },
+  "MUTAG": {
+    "alpha": 0.1,
+    "beta": 0.1,
+    "lr": 0.0007,
+    "hidden": 128,
+    "enc_layer": 5,
+    "dec_layer": 2,
+    "batch_size": 64,
+    "num_clients": 2,
+    "local_epoch": 2,
+    "cluster_num": 1,
+    "temperature": 1
+  },
+  "IMDB-BINARY": {
+    "alpha": 0.0,
+    "beta": 0.8,
+    "lr": 1e-05,
+    "hidden": 128,
+    "enc_layer": 2,
+    "dec_layer": 2,
+    "batch_size": 64,
+    "num_clients": 5,
+    "local_epoch": 2,
+    "cluster_num": 1,
+    "temperature": 100.0
+  },
+  "DD": {
+    "alpha": 0.6,
+    "beta": 4,
+    "lr": 0.001,
+    "hidden": 32,
+    "enc_layer": 5,
+    "dec_layer": 2,
+    "batch_size": 64,
+    "num_clients": 4,
+    "local_epoch": 1,
+    "cluster_num": 1,
+    "temperature": 100.0
+  }
+}
