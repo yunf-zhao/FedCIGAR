@@ -1,5 +1,5 @@
 # FedCIGAR
- This repository is the official implementation of "[FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection]"
+ This repository is the official implementation of "[FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection]", accepted by IJCAI 2026.
 
 
 # Setup
