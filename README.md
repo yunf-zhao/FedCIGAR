@@ -21,3 +21,14 @@ pip install networkx
 pip install pandas
 pip install dtaidistance
 ```
+# Citation
+
+If you find this repository helpful for your work, please kindly cite:
+
+```bibtex
+@article{zhao2026fedcigar,
+  title={FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-level Anomaly Detection},
+  author={Zhao, Yunfeng and Liu, Yixin and Chen, Qingfeng and Li, Shiyuan and Tan, Yue and Pan, Shirui},
+  journal={arXiv preprint arXiv:2605.09428},
+  year={2026}
+}
